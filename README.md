@@ -1,13 +1,9 @@
-# CC-Project-summer22
+#CC-Project-summer22
 
- __________________________________
- | STUDENT NAME:   |       SID:   | 
- |-----------------|--------------|                  
- | Mohammad Humayun|     (64086)  | 
- |-----------------|--------------|                  
- | Hassan Khan     |     (64089)  | 
- |-----------------|--------------|                
- | Talha Patni     |     (64085)  | 
+              
+ | Mohammad Humayun|      (64086) | 
  |-----------------|--------------|
-   Muhammad Hashir |     (64093)  |
+ | Muhammad Hashir |      (64093) |
+ | Talha Patni     |      (64085) |
+ | Hassan Khan     |      (64089) |
  __________________________________
