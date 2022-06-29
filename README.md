@@ -9,3 +9,5 @@
 # .              Introduction          #
 # .                Member 01           #
 My name is Mohammad Humayun .I am in 8th Semester and my cgpa is 3.
+# .                Member 02           #
+My name is Muhammad Hashir. I am in 8th Semester and my CGPA is 2.9.
