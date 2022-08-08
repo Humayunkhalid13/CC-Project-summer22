@@ -7,3 +7,4 @@ We use kleene closure to solve this issue.
 The code is not giving valid for all the international standards extension of an gmail.
 ### Solution: 
 We assume and set some international standards by our own like: .com .net etc that system can check valid for all international gmails and work properly.
+
