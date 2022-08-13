@@ -23,9 +23,9 @@ else if (number == 0) {
 else {
     console.log("The number is negative");
 }
-
+``` 
 //example code of for loop statement 
-
+``` 
 // program to display text 5 times
 const n = 5;
 
@@ -33,9 +33,9 @@ const n = 5;
 for (let i = 1; i <= n; i++) {
     console.log(`I love JavaScript.`);
 }
-
+``` 
 //// example code of switch-case
-
+``` 
  const pet = prompt( "Your pet name");
  
 switch (pet) {
