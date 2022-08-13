@@ -7,7 +7,7 @@ It extends to scripts, style sheets, and other components that the web browser u
 Minification is performed on the web server before a response is sent.
 
 //example code of if-else statements
-
+``` 
 const number = prompt("Enter a number: ");
 
 
@@ -50,3 +50,4 @@ switch (pet) {
     break;
 
 }
+``` 
