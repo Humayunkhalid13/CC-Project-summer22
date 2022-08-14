@@ -1,53 +1,63 @@
-Selected Language is Mini Javascript
+Selected Language is Mini C Language
 
 Language Specification:
-It is a cross-platform, object-oriented scripting language developed by Netscape was first used in Netscape browsers.
-Mini Javascript works by analyzing and rewriting the text-based parts of a website to reduce its overall file size.
-It extends to scripts, style sheets, and other components that the web browser uses to render the site. 
-Minification is performed on the web server before a response is sent.
+C language include low-level access to memory, a simple set of keywords, and a clean style, these features make C language suitable for system programmings like an operating system or compiler development. Specifications are written as C annotation comments to the C program, which hence can be compiled with any C compiler.
+C is a compiler-based program. This makes the compilation and execution of codes faster.In C language, Keywords are part of the syntax and they cannot be used as an identifier. Identifier refers to name given to entities such as variables, functions, structures etc.
 
+//// example code of while lopp
+``` 
+#include <stdio.h>
+ 
+int main () {
+
+   /* local variable definition */
+   int a = 10;
+
+   /* while loop execution */
+   while( a < 20 ) {
+      printf("value of a: %d\n", a);
+      a++;
+   }
+ 
+   return 0;
+}
+```
+
+//example code of for loop 
+``` 
+// Print numbers from 1 to 10
+#include <stdio.h>
+
+int main() {
+  int i;
+
+  for (i = 1; i < 11; ++i)
+  {
+    printf("%d ", i);
+  }
+  return 0;
+
+}
+``` 
+ 
 //example code of if-else statements
 ``` 
-const number = prompt("Enter a number: ");
+#include <stdio.h>
+int main() {
+    int number;
 
+    printf("Enter an integer: ");
+    scanf("%d", &number);
 
-// check if number is greater than 0
-if (number > 0) {
-    console.log("The number is positive");
+    // true if number is less than 0
+    if (number < 0) {
+        printf("You entered %d.\n", number);
+    }
+else
+{
+    printf("The if statement is easy.");
 }
-// check if number is 0
-else if (number == 0) {
-  console.log("No Value");
+    return 0;
 }
-// if number is in minus
-else {
-    console.log("The number is negative");
-}
-``` 
-//example code of for loop statement 
-``` 
-// program to display text 5 times
-const n = 5;
 
-// looping from i = 1 to 5
-for (let i = 1; i <= n; i++) {
-    console.log(`I love JavaScript.`);
-}
-``` 
-//// example code of switch-case
-``` 
- const pet = prompt( "Your pet name");
- 
-switch (pet) {
-  case "lizard":
-    console.log("I own a lizard");
-    break;
-  case "dog":
-    console.log("I own a dog");
-    break;
-  case "cat":
-    console.log("I own a cat");
-    break;
-
-}
 ``` 
