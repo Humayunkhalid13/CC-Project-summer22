@@ -1,13 +1,13 @@
 <h2> Project Report </h2>
 
-<h2>Introduction:<h2>
+<h2>Introduction:</h2>
 Our project is all about ChocoPy compiler. This compiler is used for educating students on how to construct a compiler. The compiler for ChocoPy is implemented to generate assembly code. ChocoPy compiler advantagous to use when teaching compiler since it is a simplified subset of python.
 We have build this project using LEX (Lexical analyzer generator) and YACC (Yet another compiler compiler), lex and yacc are tools are use to generate lexical analyzers and parsers.
 
 <h2>Objective:<h2>
 The main objective of the project is to learn and practically implement the concept of compiler construction.
 
-<h2>Conceptuals:<h2>
+<h2>Conceptuals:</h2>
 We have applied to main concepts in this project as required:
 1. Lexical Analyzer:
 In this phase white spaces and comments are remove from program and help us to identify the tokens. The input characters are read by lexical analyzers from the source code.
