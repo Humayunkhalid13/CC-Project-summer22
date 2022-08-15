@@ -11,10 +11,5 @@ We assume and set some international standards by our own like: .com .net etc th
 
 
 
-
-https://user-images.githubusercontent.com/61631195/184680337-551f8e80-5a65-4ad1-a66f-74ac56bcef4e.mp4
-
-
-
-https://user-images.githubusercontent.com/61631195/184680355-197c370c-1691-4bf1-986f-9150e8a0044a.mp4
-
+[Email_video.webm](https://user-images.githubusercontent.com/61631195/184680496-a3cb6ee5-70ce-48a2-bb0b-0c5a58a3659f.webm)
+[Mobile_video.webm](https://user-images.githubusercontent.com/61631195/184680506-531c6b23-8974-4b5b-91ce-b5bdad24069f.webm)
