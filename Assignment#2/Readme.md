@@ -8,3 +8,13 @@ We use kleene closure to solve this issue.
 The code is not giving valid for all the international standards extension of an gmail.
 ### Solution: 
 We assume and set some international standards by our own like: .com .net etc that system can check valid for all international gmails and work properly.
+
+
+
+
+https://user-images.githubusercontent.com/61631195/184680337-551f8e80-5a65-4ad1-a66f-74ac56bcef4e.mp4
+
+
+
+https://user-images.githubusercontent.com/61631195/184680355-197c370c-1691-4bf1-986f-9150e8a0044a.mp4
+
