@@ -13,8 +13,8 @@ Member 01:
 My name is Mohammad Humayun .I am in 8th Semester and my CGPA is 3 
 and Currently working on flutter mobile applications.
 Member 02:        
-My name is Muhammad Hashir. I am in 8th Semester and my CGPA is 2.9
-and enrolled in BanoQabil Course(web development).
+My name is Muhammad Hashir. I am doing bachelor's in Computer science from PAF KIET. 
+I am in 8th Semester and my CGPA is 2.9.
 Member 03:
 My name is Talha Patni. I am in 8th semester and my CGPA is 2.71.
 and Working as graphic designer
